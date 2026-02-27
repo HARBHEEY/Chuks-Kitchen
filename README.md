@@ -1,4 +1,4 @@
-# Chuks-Kitchen
+# Chuks-Kitchen  (scroll down to live url)
 1. Project Overview
 
 Chuks Kitchen is a responsive food ordering webpage built from a provided Figma design. The goal of this project was to accurately translate the visual design into a functional and responsive user interface using modern frontend tools.
@@ -72,6 +72,12 @@ Contains the main structure/layout of the webpage including the meal list and or
 A reusable component that displays each meal item including image, name, description, price, and quantity buttons.
 	•	Order.jsx
 Displays selected items and pricing details.
+
+Note:- home--first design
+       Explore--second design
+	   Myorder--third design
+	   login--fourth design
+	   login--click on sign--fifth design
 	
 
 4. Design Interpretation
@@ -117,3 +123,5 @@ Performance Improvements
 The Chuks Kitchen webpage successfully translates the provided Figma design into a responsive React application using Tailwind CSS.
 
 The project follows a clean component-based structure and is designed to be scalable and maintainable. Another frontend developer can easily continue development by extending existing components or integrating backend functionality.
+
+live url:- https://chuks-kitchen-silk.vercel.app/
